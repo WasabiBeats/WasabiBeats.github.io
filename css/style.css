@@ -5,3 +5,13 @@
   height:100%;
   
 }
+
+.navbar-right{
+  
+    position: absolute;
+    top: 10px;
+    right: 300px;
+    width: 300px;
+    
+
+}
