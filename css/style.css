@@ -3,7 +3,7 @@
 .top-bar{
   background-color:#0066ff;
   height:100%;
-  
+  width:100%;
 }
 
 .navbar-right{
@@ -21,4 +21,62 @@ img{
   max-height: 350px;
   max-width: 200px;
   padding :10px;
+}
+
+a{
+  color:white;
+  font-size:15px;
+}
+
+.intro{
+  
+  padding:20px;
+  text-align:center; 
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size:30px;
+  color:white;
+}
+
+#horiLine li{
+  display:inline;
+}
+
+.folio{
+  
+  padding:50px;
+  text-align:center;
+  font-family: "Times New Roman", Times, Serif;
+  background-color:white;
+}
+
+.contact{
+  margin:auto;
+  width: 100%;
+  padding: 60px;
+  text-align: center;
+  color:white;
+}
+
+.soc-media{
+  text-align: center;
+  padding: 50px 30px 0px 80px;
+}
+
+.line-separator{
+height:1px;
+background:#717171;
+border-bottom:1px solid #313030;
+}
+
+.botBackgrnd{
+  background-color:#262626;
+}
+
+.social{
+  color:white;
+}
+
+.footer{
+  text-align:center;
+  color: #0066ff;
 }
