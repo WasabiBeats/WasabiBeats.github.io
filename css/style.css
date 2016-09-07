@@ -12,8 +12,8 @@ body {
   border: 0;
 }
 
-.nav .navbar-nav li a {
-  color: White;
+.nav.navbar-nav li a {
+  color: black;
   margin: auto; 
 }
 
@@ -44,11 +44,6 @@ img{
   max-height: 350px;
   max-width: 200px;
   padding :10px;
-}
-
-li a{
-  color:white;
-  font-size:15px;
 }
 
 p{
