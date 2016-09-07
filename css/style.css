@@ -1,4 +1,7 @@
-
+.body{
+  height:100%;
+  width:100%;
+}
 
 .navbar-right{
   
@@ -50,7 +53,7 @@ li a{
   width: 100%;
   padding: 60px;
   text-align: center;
-  color:white;
+  color:black;
 }
 
 .soc-media{
@@ -63,20 +66,14 @@ background:#717171;
 border-bottom:1px solid #313030;
 }
 
-.navbar{
-  background-color:black;
+.navbar {
+  background-color: black;
   display: inline-block;
   border-color: black;
-}
+} 
 
-
-.social{
-  color:white;
-}
-
-.footer{
-  text-align:center;
-  color: #0066ff;
+.social-media {
+  list-style: none;
 }
 
 #facebook, #twitter, #github, #linkedin, #ffc {
