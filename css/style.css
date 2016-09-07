@@ -71,6 +71,8 @@ p{
 
 .about{
   padding: 75px;
+  text-align: center;
+  background-color:#668cff;
 }
 
 #horiLine li{
