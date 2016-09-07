@@ -29,7 +29,7 @@ p{
   color:white;
   position: absolute;
   top: 10px;
-  font-size:10px;
+  font-size:12px;
 }
 
 .intro{
@@ -63,9 +63,6 @@ p{
   color:black;
 }
 
-.soc-media{
-  list-style:none;
-}
 
 .line-separator{
 height:1px;
