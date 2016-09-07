@@ -1,9 +1,4 @@
 
-.top-bar{
-  background-color:#0066ff;
-  background-size:cover;
-  margin:0px;
-}
 
 .navbar-right{
   
@@ -29,6 +24,7 @@ li a{
 
 .intro{
   
+  background-color:#0066ff;
   padding:20px;
   text-align:center; 
   font-family:"Trebuchet MS", Helvetica, sans-serif;
