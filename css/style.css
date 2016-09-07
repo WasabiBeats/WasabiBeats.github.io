@@ -3,12 +3,13 @@
 body {
    font-family: "Raleway";
   width: 100%;
-  height: 100%;
+  height: 100;
+  background-color:black;
 }
 
 .navbar{
   padding: 0px;
-  margin: auto;
+  margin: 0px;
   border: 0;
 }
 
