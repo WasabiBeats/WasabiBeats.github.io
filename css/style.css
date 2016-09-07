@@ -8,7 +8,7 @@ body {
 
 .navbar{
   padding: 0px;
-  margin: 0px;
+  margin: auto;
   border: 0;
 }
 
@@ -53,16 +53,6 @@ p{
   font-size:12px;
 }
 
-.intro{
-  
-  background-color:#0066ff;
-  padding:20px;
-  text-align:center; 
-  font-family:"Trebuchet MS", Helvetica, sans-serif;
-  font-size:30px;
-  color:white;
-  margin:0px;
-}
 
 .about{
   padding: 75px;
