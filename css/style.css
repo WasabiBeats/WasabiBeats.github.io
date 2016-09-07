@@ -12,7 +12,7 @@ body {
   border: 0;
 }
 
-li a {
+.nav.navbar-nav li a {
   color: black;
   margin: auto; 
 }
@@ -93,9 +93,10 @@ border-bottom:1px solid #313030;
 }  
 
 
-.nav li {
-  float: left;
+li{
+  float:left;
 }
+
 
 i {
   color: white;
