@@ -74,6 +74,7 @@ border-bottom:1px solid #313030;
   background-color:black;
   display: inline-block;
   border-color: black;
+  width:100%;
 } 
 
 #facebook, #twitter, #github, #linkedin, #ffc {
