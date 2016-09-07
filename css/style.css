@@ -76,3 +76,15 @@ border-bottom:1px solid #313030;
   text-align:center;
   color: #0066ff;
 }
+
+#facebook, #twitter, #github, #linkedin, #ffc {
+ font-size: 1.2em; 
+}  
+
+.nav li {
+  float: left;
+}
+
+i {
+  color: white;
+}
