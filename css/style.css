@@ -77,16 +77,8 @@ p{
   width: 100%;
   text-align: center;
   color:black;
+  background-color:white;
 }
-
-
-.line-separator{
-height:1px;
-background:#717171;
-border-bottom:1px solid #313030;
-}
-
-
 
 #facebook, #twitter, #github, #linkedin, #ffc {
  font-size: 1.5em;
